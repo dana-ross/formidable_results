@@ -3,7 +3,8 @@ Contributors: csixty4
 Donate: http://formidablepro.com/
 Requires at least: 3.0
 Tested up to: 3.4
-
+License: MIT
+License URI: http://www.opensource.org/licenses/mit-license.php
 An interface for viewing Formidable Forms responses without upgrading to Pro.
 
 == Description ==
